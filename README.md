@@ -11,7 +11,9 @@ This is a perfect example which shows the power of **OpenCV**. Creating this eff
 
 The next step would be to decrease the noise by applying more filters and increasing the Color Thresholding/Masking range
 
-```
+```bash
+pip install -r requirements.txt
+python run.py
 ```
 ## Usage
 Check out the usage :
