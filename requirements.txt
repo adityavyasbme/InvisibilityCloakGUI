@@ -1,0 +1,3 @@
+pil
+python-tk
+numpy
