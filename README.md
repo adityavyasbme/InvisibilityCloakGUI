@@ -7,9 +7,9 @@ This is a perfect example which shows the power of **OpenCV**. Creating this eff
 The next step would be to decrease the noise by applying more filters and increasing the Color Thresholding/Masking range
 
 ## Usage
-Check out the usage
+Check out the usage :
 
-[![Watch the video](https://github.com/adityavyasbme/InvisibilityCloakGUI/vid.png?raw=true)](https://www.youtube.com/watch?v=KPSEOzYA6YI)
+[![Watch the video](https://github.com/adityavyasbme/InvisibilityCloakGUI/blob/master/vid.png?raw=true)](https://www.youtube.com/watch?v=KPSEOzYA6YI)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
