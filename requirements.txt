@@ -1,3 +1,4 @@
 pil
-python-tk
+tk
 numpy
+opencv-python
